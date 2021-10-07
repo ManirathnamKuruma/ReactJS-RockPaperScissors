@@ -1,5 +1,8 @@
 In this assignment let's build a **Rock Paper Scissors** by applying the concepts we have learned till now.
 
+### Link to the page is given below:
+https://mkrpsgame.ccbp.tech/
+
 ### Refer to the image below:
 
 <br/>
